@@ -21,8 +21,9 @@ Download your favorite YouTube videos and share them as GIFs with friends.
   <img src="https://github.com/user-attachments/assets/5180fb6f-19ea-44ed-b253-f6492d1071eb" alt="Screenshot 2" width="300" />
   <img src="https://github.com/user-attachments/assets/afc92370-e943-4bd6-8d6f-282090052aab" alt="Screenshot 3" width="300" />
   <img src="https://github.com/user-attachments/assets/9ba55b33-070c-4aac-8f3f-5fe61880d3f8" alt="Screenshot 4" width="300" />
-  <img src="https://github.com/user-attachments/assets/88d3b6c0-aa3b-47e5-bf98-a49e9834f9f5" alt="WhatsApp Share" width="300" />
+  <img src="https://github.com/user-attachments/assets/5addbb77-617b-42c1-9055-81e5a865bb35" alt="WhatsApp Share" width="300" />
 </div>
+
 
 ## Gif Output  
 <div align="center">
