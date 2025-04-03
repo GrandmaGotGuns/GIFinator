@@ -45,6 +45,8 @@ Download your favorite YouTube videos and share them as GIFs with friends.
 2. **Grant Permissions** - ALLOW ALL in the permission else app wont work (needed for local file storage)  
 
 ### Creating GIFs
+1. It is **MANDATORY TO DOWNLOAD VIDEO FIRST**
+2. If you are only looking forward to making gifs download video in lower resolution
 1. Paste YouTube URL in the Link Box  
 2. Click "Generate Streams"  
 3. Select your preferred quality/size from available streams  
@@ -63,6 +65,13 @@ Download your favorite YouTube videos and share them as GIFs with friends.
 - App will prompt to share when GIF is ready  
 - GIFs are saved in Downloads/VidDown folder  
 
+---
+
+## Troubleshooting
+- If you something's messed up with the app, just uninstall the app.
+- Delete the Downloads/VidDown Folder
+- Install the Latest Release of the app.
+  
 ---
 
 ## Thanks  
