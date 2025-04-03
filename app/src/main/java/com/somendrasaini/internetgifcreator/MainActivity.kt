@@ -264,6 +264,23 @@ fun VideoDownloadApp() {
     fun downloadFile(itag: String, isVideo: Boolean, latch: CountDownLatch) {
         lifecycleScope.launch {
             try {
+                // First, clear the download directory
+                val downloadDir = getDownloadDir()
+                withContext(Dispatchers.IO) {
+                    downloadDir.listFiles()?.forEach { file ->
+                        try {
+                            if (file.isDirectory) {
+                                file.deleteRecursively()
+                            } else {
+                                file.delete()
+                            }
+                        } catch (e: Exception) {
+                            Log.e("DownloadFile", "Failed to delete ${file.name}: ${e.message}")
+                        }
+                    }
+                }
+
+                // Then proceed with the download
                 val result = withContext(Dispatchers.IO) {
                     Python.getInstance()
                         .getModule("download_streams")
@@ -272,7 +289,7 @@ fun VideoDownloadApp() {
                             itag,
                             urlInput.text,
                             isVideo,
-                            getDownloadDir().absolutePath
+                            downloadDir.absolutePath
                         )
                         .toInt()
                 }
