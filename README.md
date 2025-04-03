@@ -32,7 +32,7 @@ Download your favorite YouTube videos and share them as GIFs with friends.
 
 ---
 
-## Dependencies  
+## Stack  
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** – YouTube video downloads  
 - **[ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)** – Video-to-GIF conversion  
 
