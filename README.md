@@ -68,7 +68,7 @@ Download your favorite YouTube videos and share them as GIFs with friends.
 ---
 
 ## Troubleshooting
-- If you something's messed up with the app, just uninstall the app.
+- If you see/feel something's messed up with the app, just uninstall the app.
 - Delete the Downloads/VidDown Folder
 - Install the Latest Release of the app.
   
