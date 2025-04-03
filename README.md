@@ -42,7 +42,7 @@ Download your favorite YouTube videos and share them as GIFs with friends.
 
 ### Getting Started
 1. **Download the App** - No sign-in required  
-2. **Grant Permissions** - Allow all requested permissions (needed for local file storage)  
+2. **Grant Permissions** - ALLOW ALL in the permission else app wont work (needed for local file storage)  
 
 ### Creating GIFs
 1. Paste YouTube URL in the Link Box  
