@@ -1,27 +1,37 @@
-﻿# Internet-GIF-Creator
+# Internet GIF Creator  
 
- ## This is a # Youtube Downloader ## and can create any youtube video into # GIF
+A YouTube Downloader that converts any YouTube video into a GIF—overengineered for no reason, but here we are!  
 
- ### This has been overengineered for no reason, but here we are. Download and send your friends your favorite youtube videos as GIF
+Download your favorite YouTube videos and share them as GIFs with friends.  
 
- ## Screen Shots : 
+---
 
+## Features  
+- **YouTube Video Downloader** – Fetch videos directly from YouTube.  
+- **GIF Converter** – Transform videos into high-quality GIFs.  
+- **Simple & Efficient** – Despite being overengineered, it gets the job done.  
 
+## Screenshots  
+*(Coming soon!)*  
 
+---
 
+## Dependencies  
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** – For downloading YouTube videos.  
+- **[arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit)** – For video-to-GIF conversion.  
 
+---
 
+## Usage  
+*(Instructions on how to use the tool will go here.)*  
 
+---
 
+## Thanks  
+Special thanks to:  
+- **yt-dlp** for seamless YouTube downloads.  
+- **ffmpeg-kit** for powerful media processing.  
 
+---  
 
-
-
-
-
-
-
-
-
-
- ##### Thanks to yt-dlp and arthenica/ffmpeg-kit
+🔹 **Enjoy creating GIFs!** 🎥➡️🎞️
