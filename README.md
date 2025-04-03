@@ -1,3 +1,6 @@
+
+![ic_launcher - Copy](https://github.com/user-attachments/assets/bd66105d-e788-4cac-9ead-b36375da8de5)
+
 # Internet GIF Creator  
 
 A YouTube Downloader that converts any YouTube video into a GIF—overengineered for no reason, but here we are!  
